@@ -1,3 +1,10 @@
+# simplyjackfoster's First CS193 Homework
+
+## Numbered List of my favorite things in 193
+1. Only one credit hour
+2. Cameron is a nice guy!
+3. PSO is optional
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
